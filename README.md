@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Language Translator Web Application
 
 
@@ -43,7 +42,7 @@ If you find any issues with the application or have suggestions for improvement,
 This language translator web application is developed and maintained by [Venkateeshh](https://github.com/Venkateeshh). I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
 
 Thank you for checking out this project! If you find it helpful, don't forget to give it a star and share it with others. Happy translating!
-=======
+
 # JS-TRANSLATOR
 I have created language translator using javascript . To see the website visit http://127.0.0.1:5500/
->>>>>>> 5cb7250ab22e471c60eaa32d88457a2be9d74152
+5cb7250ab22e471c60eaa32d88457a2be9d74152
