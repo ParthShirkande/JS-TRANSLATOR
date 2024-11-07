@@ -15,7 +15,7 @@ This is a simple language translator web application built using pure HTML, CSS,
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]( http://127.0.0.1:5500/)
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]( https://js-translator.vercel.app/)
 
 ## About the Author
 
